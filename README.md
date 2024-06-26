@@ -13,13 +13,13 @@ A ideia principal do projeto é replicar um sistema bancário onde temos as info
 - `Funcionalidade 3`: Realizar transferencias.
 - `Funcionalidade 4`: Mostrar saldo em conta.
 
-<h1 align="center"> 
+<h3 align="center"> 
 
 https://github.com/mathlima/Sistema-de-Banco/assets/52716331/c53a9dbd-2c90-4c04-930f-3d4abe862729
 
 <h1 align="center"> 📁 Acesso ao projeto </h1>
 
-**Você pode acessar o projeto através baixando os arquivos no meu repositorio.
+**Você pode acessar o projeto através baixando os arquivos no meu repositorio.**
 
 <h1 align="center"> ✅Técnicas e tecnologias utilizadas </h1>
 
