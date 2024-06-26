@@ -18,15 +18,14 @@ A ideia principal do projeto é replicar um sistema bancário onde temos as info
 
 <h1 align="center"> 📁 Acesso ao projeto </h1>
 
-**Você pode acessar o projeto através do link: https://ingresso-delta-three.vercel.app**
+**Você pode acessar o projeto através baixando os arquivos no meu repositorio.
 
 <h1 align="center"> ✅Técnicas e tecnologias utilizadas </h1>
 
 - `Lógica de programação`
 - `Java`
-
-
-
+  
+<h1 align="center"> 
 
 https://github.com/mathlima/Sistema-de-Banco/assets/52716331/c53a9dbd-2c90-4c04-930f-3d4abe862729
 
