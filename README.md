@@ -15,6 +15,7 @@ A ideia principal do projeto é replicar um sistema bancário onde temos as info
 
 <h1 align="center"> 
 
+https://github.com/mathlima/Sistema-de-Banco/assets/52716331/c53a9dbd-2c90-4c04-930f-3d4abe862729
 
 <h1 align="center"> 📁 Acesso ao projeto </h1>
 
@@ -24,11 +25,6 @@ A ideia principal do projeto é replicar um sistema bancário onde temos as info
 
 - `Lógica de programação`
 - `Java`
-  
-<h1 align="center"> 
-
-https://github.com/mathlima/Sistema-de-Banco/assets/52716331/c53a9dbd-2c90-4c04-930f-3d4abe862729
-
 
 <h1 align="center"> Autor </h1>
 
