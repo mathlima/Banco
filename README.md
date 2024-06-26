@@ -5,6 +5,7 @@ A ideia principal do projeto é replicar um sistema bancário onde temos as info
 
 <h1 align="center"> Status do projeto </h1>
 
+![Badge concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 <h1 align="center"> # :hammer: Funcionalidades do projeto </h1>
 
